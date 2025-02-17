@@ -1,2 +1,6 @@
 # Responsible-AI-Ethical-Legal-Social-And-Economic-Aspects
-All my work for the Responsible Artificial Intelligence: Ethical, Legal, Social and Economic Aspects course at FMI
+
+<h3>Big Data for Smart Society Institute (GATE)</h3>
+<h3>Sofia University "St. Kliment Ohridski" Faculty of Mathematics and Informatics</h3>
+
+<h3>Big Data Technologies Year 1 Semester 1 2024/2025</h3>
