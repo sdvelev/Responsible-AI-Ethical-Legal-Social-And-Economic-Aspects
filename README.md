@@ -1,4 +1,4 @@
-# Responsible AI - Ethical, Legal, Social, and Economic Aspects
+# Responsible AI: Ethical, Legal, Social, and Economic Aspects
 
 <h3>Sofia University "St. Kliment Ohridski" Faculty of Mathematics and Informatics</h3>
 
